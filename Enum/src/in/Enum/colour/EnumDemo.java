@@ -13,7 +13,7 @@ public class EnumDemo {
 		// Example of using a specific enum constant
 		Colour.RED.info(); // This will call the overridden method in RED
 		Colour.BLUE.info(); // This will call the default method in BLUE
-		Colour.GREEN.info(); // This will call the default method in GREEN
+		Colour.GREEN.info(); // This will call the default method in GREE
 	}
 
 }
